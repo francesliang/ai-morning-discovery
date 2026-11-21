@@ -11,6 +11,18 @@
     <itunes:image href="https://francesliang.github.io/ai-morning-discovery/ai-morning-discovery-cover.png"/>
 
     <item>
+      <title>2026-11-22</title>
+      <description>2026-11-22 discovery</description>
+      <pubDate>Sun, 22 Nov 2026 07:05:00 +1100</pubDate>
+      <guid isPermaLink="false">2026-11-22</guid>
+      <enclosure
+        url="https://francesliang.github.io/ai-morning-discovery/2026-11-22/podcast.m4a"
+        length="4560759"
+        type="audio/mp4"/>
+      <itunes:duration>00:09:12</itunes:duration>
+    </item>
+
+    <item>
       <title>2026-11-21</title>
       <description>2026-11-21 discovery</description>
       <pubDate>Sat, 21 Nov 2026 07:03:00 +1100</pubDate>
